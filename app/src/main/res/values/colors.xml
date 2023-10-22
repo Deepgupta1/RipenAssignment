@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blur">#80000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="smoke_white">#EFEFEF</color>
+    <color name="divider">#ECECEC</color>
+    <color name="orange">#F4AE23</color>
+    <color name="light_yellow">#EFEFEF70</color>
+    <color name="headings_color">#27415E</color>
+    <color name="light_bg">#0727415E</color>
+    <color name="text_color">#59718B</color>
+    <color name="dot_circle">#D5DBE2</color>
+    <color name="button_color">#3FC1C9</color>
+    <color name="border_colore">#B1C1D4</color>
+    <color name="ottom_nav_text_color">#768AA1</color>
+    <color name="about">#5C738B</color>
+</resources>
